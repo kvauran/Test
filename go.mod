@@ -9,13 +9,12 @@ require (
 	github.com/ElrondNetwork/concurrent-map v0.1.3
 	github.com/ElrondNetwork/covalent-indexer-go v1.0.4
 	github.com/ElrondNetwork/elastic-indexer-go v1.0.12
-	github.com/ElrondNetwork/elrond-go-core v1.1.4
+	github.com/ElrondNetwork/elrond-go-core v1.1.26
 	github.com/ElrondNetwork/elrond-go-crypto v1.0.1
-	github.com/ElrondNetwork/elrond-go-logger v1.0.5
-	github.com/ElrondNetwork/elrond-vm-common v1.2.6
+	github.com/ElrondNetwork/elrond-go-logger v1.0.10
+	github.com/ElrondNetwork/elrond-vm-common v1.3.28
 	github.com/ElrondNetwork/notifier-go v1.0.2
 	github.com/beevik/ntp v0.3.0
-	github.com/btcsuite/btcd v0.22.0-beta
 	github.com/davecgh/go-spew v1.1.1
 	github.com/elastic/go-elasticsearch/v7 v7.12.0
 	github.com/gin-contrib/cors v0.0.0-20190301062745-f9e10995c85a
@@ -41,11 +40,11 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/shirou/gopsutil v3.21.6+incompatible
 	github.com/stretchr/testify v1.7.0
-	github.com/syndtr/goleveldb v1.0.1-0.20190318030020-c3a204f8e965
+	github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
 	github.com/urfave/cli v1.22.5
 	github.com/whyrusleeping/timecache v0.0.0-20160911033111-cfcb2f1abfee
-	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
-	golang.org/x/net v0.0.0-20210428140749-89ef3d95e781
+	golang.org/x/crypto v0.3.0
+	golang.org/x/net v0.2.0
 	gopkg.in/go-playground/validator.v8 v8.18.2
 )
 
